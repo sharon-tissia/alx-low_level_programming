@@ -1,11 +1,9 @@
-#include "main.h"
 
 /**
  * main - print _putchar
  * Written by sharon-tissia
  * Return: 0
  */
-
 int main(void)
 {
 _putchar ('_');
