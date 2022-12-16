@@ -1,10 +1,10 @@
-
 /**
  * main - print _putchar
  * Written by sharon-tissia
  * Return: 0
  */
 int main(void)
+
 {
 _putchar ('_');
 _putchar ('p');
